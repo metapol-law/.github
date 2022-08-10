@@ -1,4 +1,7 @@
-# METAPOL Decentralized Intelligence Agency GitHub Organization Open Source Project Initiative
+# METAPOL Decentralized Intelligence Agency
+**We are an international non-profit non-governmental organization (INPNGO) tasked with the global mission for the institution of due diligence regulations, investigations, and enforcement divisions empowered under this constitution for the control and proper defense of the unclaimed sovereign territory of Cyberspace; henceforth hereby formally claimed an independent nation granted the rights and duties of statehood as proclaimed under this declaration of independence for the peaceful territorial acquisition of Cyberspace, having been formally ratified by this Decentralized Autonomous Organization and entered into full force and effect, on behalf of its permanent population in compliance with international law pursuant to Montevideo Convention on the Rights and Duties of States, this 9th day of August 2022.**
+
+## GitHub Organization Open Source Project Initiative
 
 **Template for clearance: This project serves as a template to aid projects in starting up and moving through clearance procedures. To start, create a new repository and implement the required [open practices](open_practices.md), train on and agree to adhere to the organization's [rules of behavior](rules_of_behavior.md), and [send a request through the create repo form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) using language from this template as a Guide.**
 
